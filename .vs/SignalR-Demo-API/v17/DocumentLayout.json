@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\KARAN\\Desktop\\SignalR Demo\\SignalR-Demo-API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8EDCB391-13D0-4D88-BA96-71B24ACE3409}|SignalR-Demo-API\\SignalR-Demo-API.csproj|c:\\users\\karan\\desktop\\signalr demo\\signalr-demo-api\\signalr-demo-api\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EDCB391-13D0-4D88-BA96-71B24ACE3409}|SignalR-Demo-API\\SignalR-Demo-API.csproj|solutionrelative:signalr-demo-api\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EDCB391-13D0-4D88-BA96-71B24ACE3409}|SignalR-Demo-API\\SignalR-Demo-API.csproj|c:\\users\\karan\\desktop\\signalr demo\\signalr-demo-api\\signalr-demo-api\\controllers\\chatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EDCB391-13D0-4D88-BA96-71B24ACE3409}|SignalR-Demo-API\\SignalR-Demo-API.csproj|solutionrelative:signalr-demo-api\\controllers\\chatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EDCB391-13D0-4D88-BA96-71B24ACE3409}|SignalR-Demo-API\\SignalR-Demo-API.csproj|c:\\users\\karan\\desktop\\signalr demo\\signalr-demo-api\\signalr-demo-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EDCB391-13D0-4D88-BA96-71B24ACE3409}|SignalR-Demo-API\\SignalR-Demo-API.csproj|solutionrelative:signalr-demo-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EDCB391-13D0-4D88-BA96-71B24ACE3409}|SignalR-Demo-API\\SignalR-Demo-API.csproj|c:\\users\\karan\\desktop\\signalr demo\\signalr-demo-api\\signalr-demo-api\\messagestorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EDCB391-13D0-4D88-BA96-71B24ACE3409}|SignalR-Demo-API\\SignalR-Demo-API.csproj|solutionrelative:signalr-demo-api\\messagestorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\KARAN\\Desktop\\SignalR Demo\\SignalR-Demo-API\\SignalR-Demo-API\\Program.cs",
+              "RelativeDocumentMoniker": "SignalR-Demo-API\\Program.cs",
+              "ToolTip": "C:\\Users\\KARAN\\Desktop\\SignalR Demo\\SignalR-Demo-API\\SignalR-Demo-API\\Program.cs",
+              "RelativeToolTip": "SignalR-Demo-API\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T10:51:04.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MessageStorageService.cs",
+              "DocumentMoniker": "C:\\Users\\KARAN\\Desktop\\SignalR Demo\\SignalR-Demo-API\\SignalR-Demo-API\\MessageStorageService.cs",
+              "RelativeDocumentMoniker": "SignalR-Demo-API\\MessageStorageService.cs",
+              "ToolTip": "C:\\Users\\KARAN\\Desktop\\SignalR Demo\\SignalR-Demo-API\\SignalR-Demo-API\\MessageStorageService.cs",
+              "RelativeToolTip": "SignalR-Demo-API\\MessageStorageService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T10:50:47.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ChatController.cs",
+              "DocumentMoniker": "C:\\Users\\KARAN\\Desktop\\SignalR Demo\\SignalR-Demo-API\\SignalR-Demo-API\\Controllers\\ChatController.cs",
+              "RelativeDocumentMoniker": "SignalR-Demo-API\\Controllers\\ChatController.cs",
+              "ToolTip": "C:\\Users\\KARAN\\Desktop\\SignalR Demo\\SignalR-Demo-API\\SignalR-Demo-API\\Controllers\\ChatController.cs",
+              "RelativeToolTip": "SignalR-Demo-API\\Controllers\\ChatController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T07:30:17.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ChatHub.cs",
+              "DocumentMoniker": "C:\\Users\\KARAN\\Desktop\\SignalR Demo\\SignalR-Demo-API\\SignalR-Demo-API\\ChatHub.cs",
+              "RelativeDocumentMoniker": "SignalR-Demo-API\\ChatHub.cs",
+              "ToolTip": "C:\\Users\\KARAN\\Desktop\\SignalR Demo\\SignalR-Demo-API\\SignalR-Demo-API\\ChatHub.cs",
+              "RelativeToolTip": "SignalR-Demo-API\\ChatHub.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T05:21:47.022Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
